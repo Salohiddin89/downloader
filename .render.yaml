@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: telegram-bot
-    env: python
-    plan: starter
-    buildCommand: ""
-    startCommand: python main.py
-    pythonVersion: 3.11

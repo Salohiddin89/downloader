@@ -1,0 +1,5 @@
+yt-dlp
+aiogram
+python-dotenv
+shazamio
+flask

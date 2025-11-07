@@ -1,5 +1,5 @@
-yt-dlp
-aiogram
-python-dotenv
-shazamio
-flask
+yt-dlp==2024.03.10
+aiogram==3.0.0b7
+python-dotenv==1.0.1
+shazamio==0.4.2
+flask==2.3.3
